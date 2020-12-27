@@ -2,6 +2,8 @@ I am currently working as junior render programmer at Ubisoft Belgrade studio. I
 
 - Languages I work in: C++, Common Lisp, C, Rust, C#
 - Technologies I work with currently: Vulkan, openFrameworks, OpenGL
-- Things I am interested the most in: computer graphics and rendering, game engines, signal processing, operating systems, obscure games, weird atmospheric and moody music, futuristic aesthetics inspired by Wipeout games
+- Things I am interested in the most: computer graphics and rendering, game engines, signal processing, operating systems
+
+On non-computer related side of things I like obscure and inspiring games; weird, atmospheric and moody music; futuristic aesthetics inspired by Designers Republic guys. 
 
 You can reach me via email: eaxfilip@gmail.com
